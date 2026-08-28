@@ -18,7 +18,7 @@ A NIA é uma assistente de inteligência artificial criada para ajudar o utiliza
 
 A NIA terá um pacote Plus com funcionalidades avançadas.
 
-### 🎁 Programa de indicação
+## 🎁 Programa de indicação
 
 O utilizador que convidar **15 pessoas elegíveis** poderá ganhar **2 semanas grátis do NIA Plus**.
 
